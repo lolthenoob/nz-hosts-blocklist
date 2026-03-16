@@ -1,0 +1,13 @@
+# Gaspy NZ Ad Blocklist
+# https://github.com/YOURUSERNAME/gaspy-hosts
+#
+# Blocks ads and trackers served inside the Gaspy NZ petrol price app
+# Domains identified via PCAPdroid traffic analysis
+#
+# Compatible with AdAway, Pi-hole, and any hosts-based blocker
+#
+# Last updated: 2026-03-17
+
+127.0.0.1 campaigns.gaspy.nz
+127.0.0.1 graph.facebook.com
+127.0.0.1 ad-analytics-prodnz.prod.gaspy-integrations.nz
