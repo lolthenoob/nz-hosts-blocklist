@@ -15,7 +15,7 @@ Includes: Gaspy NZ petrol price app
 ### AdAway (Android)
 Add this URL to your hosts sources:
 ```
-https://raw.githubusercontent.com/placeholder
+https://raw.githubusercontent.com/lolthenoob/nz-hosts-blocklist/main/hosts.txt
 ```
 
 ## Format
