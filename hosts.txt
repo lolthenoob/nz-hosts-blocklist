@@ -11,3 +11,4 @@
 127.0.0.1 campaigns.gaspy.nz
 127.0.0.1 graph.facebook.com
 127.0.0.1 ad-analytics-prodnz.prod.gaspy-integrations.nz
+127.0.0.1 motorola.com
