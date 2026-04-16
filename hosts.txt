@@ -16,3 +16,4 @@
 127.0.0.1 ccc.motorola.com
 127.0.0.1 api.motorola.com
 127.0.0.1 oat.motorola.com 
+127.0.0.1 moto-cds.appspot.com
