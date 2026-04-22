@@ -17,3 +17,9 @@
 127.0.0.1 api.motorola.com
 127.0.0.1 oat.motorola.com 
 127.0.0.1 moto-cds.appspot.com
+127.0.0.1 moto-cds-qa.appspot.com
+127.0.0.1 moto-cd.appspot.com
+127.0.0.1 moto-cds-staging.appspot.com
+127.0.0.1 moto-cds-dev.appspot.com
+127.0.0.1 moto-cds.svcmot.cn
+127.0.0.1 ota-cn-sdc.blurdev.com
