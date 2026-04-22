@@ -1,5 +1,5 @@
-# Gaspy NZ Ad Blocklist
-# https://github.com/YOURUSERNAME/gaspy-hosts
+# NZ Ad Blocklist
+# https://github.com/lolthenoob/nz-hosts-blocklist
 #
 # Blocks ads and trackers served inside the Gaspy NZ petrol price app
 # Domains identified via PCAPdroid traffic analysis
